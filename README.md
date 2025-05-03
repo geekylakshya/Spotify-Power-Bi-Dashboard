@@ -7,6 +7,8 @@
 - [Data Cleaning and ETL](#data-cleaning-and-etl)
 - [Data Modeling](#data-modeling)
 
+## Dashboard Link
+- [Spotify Dashboard](https://bit.ly/spotifypbdashboard)
 
 # Problem Statement
 
