@@ -1,0 +1,300 @@
+artist_name,artist_id,official_anem,type,gender,d_o_b,carrer_debut,live / deceased / disbanded,career end / disband Year,age,genres
+Drake,3TVXtAsR1Inumwj472S9r4,Drake,Person,Male,24 October 1986,2006,Live,Present,39,"rap, hip hop"
+Bad Bunny,4q3ewBCX7sLwd24euuV69X,Bad Bunny,Person,Male,10 March 1994,2013,Live,Present,31,"reggaeton, trap latino, urbano latino, latin"
+Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,Person,Male,17 February 1991,2004,Live,Present,34,soft pop
+Eminem,7dGJo4pcD2V6oG8kP0tJRR,Eminem,Person,Male,17 October 1972,1988,Live,Present,53,"rap, hip hop"
+Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,Person,Male,30 April 1991,2008,Live,Present,34,rap
+Kanye West,5K4W6rqBFWDnAN6FQUkS6x,Go West,Person,Male,08 June 1977,1996,Live,Present,48,rap
+Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Kendrick Lamar,Person,Male,17 June 1987,2004,Live,Present,38,"hip hop, west coast hip hop"
+J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,J Balvin,Person,Male,07 May 1985,2004,Live,Present,40,"reggaeton, latin"
+Future,1RyvyyTE3xzB2ZywiAwp0i,Future,Person,Male,20 November 1983,2003,Live,Present,41,rap
+Ozuna,1i8SpTcr7yvPOmcqrbnVXY,Ozuna,Person,Male,13 March 1992,2012,Live,Present,33,"reggaeton, trap latino, latin, urbano latino"
+Chris Brown,7bXgB6jMjp9ATFy66eO08Z,Chris Brown,Person,Male,05 May 1989,2002,Live,Present,36,r&b
+David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,David Guetta,Person,Male,07 November 1967,1984,Live,Present,57,"edm, dance"
+Lil Wayne,55Aa2cqylxrFIXC767Z865,Lil Wayne,Person,Male,27 September 1982,1995,Live,Present,43,"rap, hip hop"
+Anuel Aa,2R21vXR83lH98kGeO99Y66,Anuel Aa,Person,Male,26 November 1992,2010,Live,Present,32,"reggaeton, trap latino, urbano latino, latin"
+Rauw Alejandro,1mcTU81TzQhprhouKaTkpq,Rauw Alejandro,Person,Male,10 January 1993,2014,Live,Present,32,"reggaeton, urbano latino, trap latino, latin"
+Maluma,1r4hJ1h58CWwUQe3MxPuau,Maluma,Person,Male,28 January 1994,2010,Live,Present,31,"reggaeton, latin, urbano latino"
+Calvin Harris,7CajNmpbOovFoOoasH2HaY,Calvin Harris,Person,Male,17 January 1984,2002,Live,Present,41,edm
+Feid,2LRoIwlKmHjgvigdNGBHNo,Feid,Person,Male,19 August 1992,2015,Live,Present,33,"reggaeton, urbano latino"
+Myke Towers,7iK8PXO48WeuP03g8YR51W,Myke Towers,Person,Male,15 January 1994,2013,Live,Present,31,"reggaeton, trap latino, urbano latino"
+Young Thug,50co4Is1HCEo8bhOyUWKpn,Neil Young,Person,Male,16 August 1991,2011,Live,Present,34,"rap, melodic rap, trap"
+Farruko,329e4yvIujISKGKz1BZZbO,Farruko,Person,Male,02 May 1991,2009,Live,Present,34,"reggaeton, trap latino"
+Arijit Singh,4YRxDV8wJFPHPTeXepOstw,Arijit Singh,Person,Male,25 April 1987,2005,Live,Present,38,"hindi pop, bollywood, desi, bangla pop"
+Peso Pluma,12GqGscKJx3aE4t07u7eVZ,Peso Pluma,Person,Male,15 June 1999,2020,Live,Present,26,"corrido, corridos tumbados, corridos bélicos, música mexicana, sad sierreño, banda, electro corridos"
+Gunna,2hlmm7s2ICUX0LVIhVFlZQ,Gunna,Person,Male,14 June 1993,2013,Live,Present,32,melodic rap
+Wiz Khalifa,137W8MRPWKqSmrBGDBFSop,Wiz Khalifa,Person,Male,08 September 1987,2005,Live,Present,38,rap
+Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,Person,Male,13 May 1993,2014,Live,Present,32,country
+Marshmello,64KEffDW9EtZ1y2vBYgq8T,Marshmello,Person,Male,19 May 1992,2015,Live,Present,33,edm
+Jay-Z,3nFkdlSjzX9mRTtwJOzDYB,Jay?Z,Person,Male,04 December 1969,1995,Live,Present,55,"hip hop, east coast hip hop, rap"
+Playboi Carti,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,Person,Male,13 September 1996,2011,Live,Present,29,rage rap
+A$Ap Rocky,13ubrt8QOOCPljQ2FL1Kca,A$Ap Rocky,Person,Male,03 October 1988,2007,Live,Present,37,rap
+Pritam,1wRPtKGflJrBx9BmLsSwlU,Pritam,Person,Male,14 June 1971,2001,Live,Present,54,"bollywood, hindi pop, desi, sufi"
+Junior H,7Gi6gjaWy3DxyilpF1a8Is,Junior H,Person,Male,23 April 2001,2019,Live,Present,24,"corridos tumbados, corrido, corridos bélicos, sad sierreño, sierreño, música mexicana, banda"
+Snoop Dogg,7hJcb9fa4alzcOq3EaNPoG,Snoop Dogg,Person,Male,20 October 1971,1992,Live,Present,54,"g-funk, west coast hip hop, gangster rap, hip hop, rap"
+Kygo,23fqKkggKUBHNkbKtXEls4,Kygo,Person,Male,11 September 1991,2013,Live,Present,34,tropical house
+Sech,77ziqFxp5gaInVrF2lj4ht,Sech,Person,Male,03 December 1993,2014,Live,Present,31,"reggaeton, urbano latino"
+Trippie Redd,6Xgp2XMz1fhVYe7i6yNAax,Trippie Redd,Person,Male,18 June 1999,2014,Live,Present,26,melodic rap
+50 Cent,3q7HBObVc0L8jNeTe5Gofh,50 Cent,Person,Male,06 July 1975,1996,Live,Present,50,east coast hip hop
+Manuel Turizo,0tmwSHipWxN12fsoLcFU3B,Manuel Turizo,Person,Male,12 April 2000,2016,Live,Present,25,"reggaeton, pop urbano, latin, colombian pop"
+Charlie Puth,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,Person,Male,02 December 1991,2011,Live,Present,33,"soft pop, pop"
+Romeo Santos,5lwmRuXgjX8xIwlnauTZIP,Romeo Santos,Person,Male,21 July 1981,1995,Live,Present,44,"bachata, bachata pop, latin"
+A Boogie Wit Da Hoodie,31W5EY0aAly4Qieq6OFu6I,A Boogie Wit Da Hoodie,Person,Male,06 December 1995,2016,Live,Present,29,melodic rap
+Natanael Cano,0elWFr7TW8piilVRYJUe4P,Natanael Cano,Person,Male,27 March 2001,2016,Live,Present,24,"corridos tumbados, corrido, corridos bélicos, sad sierreño, electro corridos, sierreño, música mexicana, banda"
+Sebastian Yatra,07YUOmWljBTXwIseAUd9TW,Johann Sebastian Bach,Person,Male,15 October 1994,2013,Live,Present,31,"colombian pop, reggaeton, latin"
+Luke Combs,718COspgdWOnwOFpJHRZHS,Luke Combs,Person,Male,02 March 1990,2014,Live,Present,35,country
+Jhayco,6nVcHLIgY5pE2YCl8ubca1,Jhayco,Person,Male,09 April 1993,2011,Live,Present,32,"reggaeton, trap latino, urbano latino"
+Sean Paul,3Isy6kedDrgPYoTS1dazA9,Sean Paul,Person,Male,09 January 1973,1994,Live,Present,52,dancehall
+Don Omar,33ScadVnbm2X8kkUqOkC6Z,Don Omar,Person,Male,10 February 1978,1996,Live,Present,47,"reggaeton, urbano latino"
+Usher,23zg3TcAtWQy7J6upgbUnj,Usher,Person,Male,14 October 1978,1993,Live,Present,47,r&b
+Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,Bryan Adams,Person,Male,02 April 1996,2019,Live,Present,29,"country, red dirt"
+Diplo,5fMUXHkw8R8eOP2RNVYEZX,Diplo,Person,Male,10 November 1978,1997,Live,Present,46,moombahton
+Luis Miguel,2nszmSgqreHSdJA3zWPyrW,Luis Miguel,Person,Male,19 April 1970,1981,Live,Present,55,"mariachi, bolero, latin pop"
+James Arthur,4IWBUUAFIplrNtaOHcJPRM,Sir Arthur Conan Doyle,Person,Male,02 March 1988,2012,Live,Present,37,soft pop
+Justin Quiles,14zUHaJZo1mnYtn6IBRaRP,Justin Quiles,Person,Male,29 March 1990,2010,Live,Present,35,reggaeton
+Bizarrap,716NhGYqD1jl2wI1Qkgq36,Bizarrap,Person,Male,29 August 1998,2017,Live,Present,27,"argentine trap, trap latino, urbano latino"
+Duki,1bAftSH8umNcGZ0uyV7LMg,Duki,Person,Male,24 June 1996,2016,Live,Present,29,"argentine trap, trap, trap latino"
+Gucci Mane,13y7CgLHjMVRMDqxdx0Xdo,Gucci Mane,Person,Male,12 February 1980,2001,Live,Present,45,"southern hip hop, rap, trap"
+Lil Durk,3hcs9uc56yIGFCSy9leWe7,Lil Durk,Person,Male,19 October 1992,2011,Live,Present,33,drill
+2 Chainz,17lzZA2AlOHwCwFALHttmp,2 Chainz,Person,Male,12 September 1977,1997,Live,Present,48,"southern hip hop, rap"
+Carin Leon,66ihevNkSYNzRAl44dx6jJ,Carin León,Person,Male,26 July 1989,2004,Live,Present,36,"banda, norteño, sierreño, corrido, grupera, ranchera, sad sierreño, música mexicana"
+Roddy Ricch,757aE44tKEUQEqRuT6GnEB,Roddy Ricch,Person,Male,22 October 1998,2017,Live,Present,27,melodic rap
+Lenny Tavárez,1pQWsZQehhS4wavwh7Fnxd,Lenny Kravitz,Person,Male,19 May 1987,2008,Live,Present,38,"reggaeton, urbano latino, trap latino, argentine trap"
+Martin Garrix,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,Person,Male,14 May 1996,2012,Live,Present,29,"edm, electronica, progressive house"
+Nf,6fOMl44jA4Sp5b9PpYCkzz,Nf,Person,Male,30 March 1991,2010,Live,Present,34,christian hip hop
+Lewis Capaldi,4GNC7GD6oZMSxPGyXy4MNB,Lewis Capaldi,Person,Male,07 October 1996,2017,Live,Present,29,soft pop
+Camilo,28gNT5KBp7IjEOQoevXf9N,Camilo Sesto,Person,Male,16 March 1994,2008,Live,Present,31,"colombian pop, pop urbano"
+Wisin,1wZtkThiXbVNtj6hee6dz9,Wisin,Person,Male,19 December 1978,1998,Live,Present,46,"reggaeton, urbano latino"
+Bryson Tiller,2EMAnMvWE2eb56ToJVfCWs,Bryson Tiller,Person,Male,02 January 1993,2011,Live,Present,32,r&b
+John Mayer,0hEurMDQu99nJRq8pTxO14,John Mayer,Person,Male,16 October 1977,1998,Live,Present,48,singer-songwriter
+Christian Nodal,0XwVARXT135rw8lyw1EeWP,Christian Nodal,Person,Male,11 January 1999,2016,Live,Present,26,"banda, ranchera, mariachi, norteño, música mexicana, grupera"
+Dr. Dre,6DPYiyq5kWVQS4RGwxzPC7,Dr. Dre,Person,Male,18 February 1965,1985,Live,Present,60,"g-funk, gangster rap, west coast hip hop, hip hop, rap"
+Robin Schulz,3t5xRXzsuZmMDkQzgOX35S,Robin Schulz,Person,Male,28 April 1987,2014,Live,Present,38,tropical house
+Michael Bublé,1GxkXlMwML1oSg5eLPiAz3,Michael Jackson,Person,Male,09 September 1975,1996,Live,Present,50,christmas
+Miguel,360IAlyVv4PCEVjgyMZrxK,Miguel Bosé,Person,Male,23 October 1985,2000,Live,Present,40,r&b
+Yandel,0eHQ9o50hj6ZDNBt6Ys1sD,Yandel,Person,Male,14 January 1977,1998,Live,Present,48,"reggaeton, urbano latino, latin"
+Anirudh Ravichander,4zCH9qm4R2DADamUHMCa6O,Anirudh Ravichander,Person,Male,16 October 1990,2011,Live,Present,35,"tamil pop, kollywood, tamil dance, tollywood, tamil hip hop, telugu pop"
+Enrique Iglesias,7qG3b048QCHVRO5Pv1T5lw,Enrique Iglesias,Person,Male,08 May 1975,1995,Live,Present,50,"latin pop, latin"
+John Legend,5y2Xq6xcjJb2jVM54GHK3t,John Legend,Person,Male,28 December 1978,2004,Live,Present,46,"soft pop, neo soul"
+Jul,1bfl0AU8SqmLkElptOprhC,Jul,Person,Male,14 January 1990,2013,Live,Present,35,"banda, norteño, grupera, corrido"
+Rels B,2IMZYfNi21MGqxopj9fWx8,Rels B,Person,Male,18 October 1993,2014,Live,Present,32,"urbano latino, trap latino"
+Brent Faiyaz,3tlXnStJ1fFhdScmQeLpuG,Brent Faiyaz,Person,Male,19 September 1995,2014,Live,Present,30,r&b
+Lil Tjay,6jGMq4yGs7aQzuGsMgVgZR,Lil Tjay,Person,Male,30 April 2001,2017,Live,Present,24,"brooklyn drill, melodic rap"
+Partynextdoor,2HPaUgqeutzr3jx5a9WyDV,Partynextdoor,Person,Male,03 July 1993,2013,Live,Present,32,r&b
+Gusttavo Lima,7MiDcPa6UiV3In7lIM71IN,Gusttavo Lima,Person,Male,03 September 1989,1999,Live,Present,36,"sertanejo, sertanejo universitário, arrocha, agronejo, piseiro, forró"
+Zedd,2qxJFvFYMEDqd7ui6kSAcq,Zedd,Person,Male,02 September 1989,2002,Live,Present,36,edm
+Skrillex,5he5w2lnU9x7JFhnwcekXX,Skrillex,Person,Male,15 January 1988,2004,Live,Present,37,"dubstep, edm, electro, electronic"
+Rick Ross,1sBkRIssrMs1AbVkOJbc7a,Rick Ross,Person,Male,28 January 1976,2000,Live,Present,49,southern hip hop
+Tame Impala,5INjqkS1o8h1imAzPqGZBb,Tame Impala,Person,Male,01 January 2007,2007,Live,Present,18,"indie, psychedelic pop"
+Eladio Carrion,5XJDexmWFLWOkjOEjOVX3e,Eladio Carrión,Person,Male,14 November 1994,2015,Live,Present,30,"trap latino, urbano latino, trap"
+Meek Mill,20sxb77xiYeusSH8cVdatc,Meek Mill,Person,Male,06 May 1987,2003,Live,Present,38,rap
+Luis R Conriquez,0pePYDrJGk8gqMRbXrLJC8,Luis R. Conriquez,Person,Male,03 March 1996,2018,Live,Present,29,"corrido, corridos bélicos, corridos tumbados, electro corridos, banda, sad sierreño, sierreño, música mexicana"
+Darell,1TtXnWcUs0FCkaZDPGYHdf,Darell,Person,Male,05 January 1990,2010,Live,Present,35,"reggaeton, trap latino, dembow, urbano latino"
+Ninho,6Te49r3A6f5BiIgBRxH7FH,Ninho,Person,Male,02 April 1996,2014,Live,Present,29,pop urbaine
+Lil Tecca,4Ga1P7PMIsmqEZqhYZQgDo,Lil Tecca,Person,Male,26 August 2002,2017,Live,Present,23,"melodic rap, rap"
+A.R. Rahman,1mYsTxnqsietFxj1OgoGbG,A. R. Rahman,Person,Male,06 January 1967,1992,Live,Present,58,"tamil pop, kollywood, sufi, bollywood, hindi pop, desi, tamil dance"
+Chencho Corleone,37230BxxYs9ksS7OkZw3IU,Chencho Corleone,Person,Male,19 February 1979,2000,Live,Present,46,reggaeton
+Tainy,0GM7qgcRCORpGnfcN2tCiB,Tainy,Person,Male,09 August 1989,2005,Live,Present,36,reggaeton
+Dalex,0KPX4Ucy9dk82uj4GpKesn,Dalex,Person,Male,07 October 1990,2015,Live,Present,35,reggaeton
+De La Ghetto,3EiLUeyEcA6fbRPSHkG5kb,De La Ghetto,Person,Male,17 September 1984,2004,Live,Present,41,"reggaeton, trap latino, urbano latino"
+Luis Fonsi,4V8Sr092TqfHkfAA5fXXqG,Luis Fonsi,Person,Male,15 April 1978,1998,Live,Present,47,latin
+Alok,0NGAZxHanS9e0iNHpR8f2W,Alok,Person,Male,26 August 1991,2004,Live,Present,34,"brazilian bass, electronic, slap house, electro house"
+Yg,0A0FS04o6zMoto8OKPsDwY,Yg,Person,Male,09 March 1990,2007,Live,Present,35,hyphy
+BTS,3Nrfpe0tUJi4K4DXYWgMUX,BTS,Group,Male,13 June 2013,2013,Live,Present,12,k-pop
+Maroon 5,04gDigrS5kc9YWfZHwBETP,Maroon 5,Group,Male,01 January 2001,2001,Live,Present,24,pop
+Queen,1dfeR4HaWDbWqFHLkxsg1d,Queen,Group,Male,01 January 1970,1970,Live,Present,55,"classic rock, rock, glam rock"
+Arctic Monkeys,7Ln80lUS6He07XvHI8qqHH,Arctic Monkeys,Group,Male,01 January 2002,2002,Live,Present,23,"indie, garage rock"
+Nicky Jam,1SupJlEpv7RS2tPNRaHViT,Pearl Jam,Group,Male,17 March 1981,1995,Live,Present,44,"reggaeton, latin"
+Onerepublic,5Pwc4xIPtQLFEnJriah9YJ,Onerepublic,Group,Male,01 January 2002,2002,Live,Present,23,soft pop
+Red Hot Chili Peppers,0L8ExT028jH3ddEcZwqJJ5,Red Hot Chili Peppers,Group,Male,01 January 1983,1983,Live,Present,42,"funk rock, alternative rock, rock"
+$Uicideboy$,1VPmR4DJC1PlOtd0IADAO0,$Uicideboy$,Group,Male,01 January 2014,2014,Live,Present,11,"dark trap, emo rap, horrorcore, punk rap, cloud rap, underground hip hop"
+Metallica,2ye2Wgw4gimLv2eAKyk1NB,Metallica,Group,Male,01 January 1981,1981,Live,Present,44,"metal, thrash metal, rock, heavy metal, hard rock"
+Ac/Dc,711MCceyCBcFnzjGY4Q7Un,Ac/Dc,Group,Male,01 January 1973,1973,Live,Present,52,"rock, hard rock, classic rock, rock and roll"
+Henrique & Juliano,3p7PcrEHaaKLJnPUGOtRlT,Henrique & Juliano,Group,Male,01 January 2011,2011,Live,Present,14,"sertanejo, sertanejo universitário, arrocha, agronejo"
+Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,Person,Female,26 June 1993,2008,Live,Present,32,pop
+Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,Person,Female,22 August 1995,2014,Live,Present,30,pop
+Sza,7tYKF4w9nC0nq9CsPZTHyP,Sza,Person,Female,08 November 1989,2012,Live,Present,35,r&b
+Karol G,790FomKkXshlbRYZFtlgla,Karol G,Person,Female,14 February 1991,2007,Live,Present,34,"reggaeton, latin, urbano latino"
+Lil Uzi Vert,4O15NlyKLIASxsJ0PrXPfz,Lil Uzi Vert,Person,Non-Binary,31 July 1995,2010,Live,Present,30,melodic rap
+Lady Gaga,1HY2Jd0NmPuamShAr6KMms,Lady Gaga,Person,Female,28 March 1986,2001,Live,Present,39,"art pop, pop"
+J. Cole,6l3HvQ5sa6mXTsMTB19rO5,J. K. Rowling,Person,Female,28 January 1985,2007,Live,Present,40,rap
+Sam Smith,2wY79sveU1sp5g7SokKOiI,Sam Smith,Person,Non-Binary,19 May 1992,2012,Live,Present,33,soft pop
+Linkin Park,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,Group,N/A,01 January 1996,1996,Live,Present,29,"nu metal, rap metal, rock, alternative metal"
+Shakira,0EmeFodog0BfCgMzAIvKQp,Shakira,Person,Female,02 February 1977,1990,Live,Present,48,latin pop
+Adele,4dpARuHxo51G3z768sgnrY,Adele,Person,Female,05 May 1988,2006,Live,Present,37,soft pop
+Selena Gomez,0C8ZW7ezQVs4URX5aX7Kqx,Selena Gomez,Person,Female,22 July 1992,2002,Live,Present,33,pop
+Katy Perry,6jJ0s89eD6GaHleKKya26X,Katy Perry,Person,Female,25 October 1984,2001,Live,Present,41,pop
+Arcángel,4SsVbpTthjScTS7U2hmr1X,Arca,Person,Non-Binary,23 December 1985,2004,Live,Present,39,"reggaeton, trap latino, urbano latino"
+Fuerza Regida,0ys2OFYzWYB5hRDLCsBqxt,Fuerza Regida,Group,N/A,01 January 2015,2015,Live,Present,10,"corrido, corridos tumbados, corridos bélicos, música mexicana, banda, sierreño, electro corridos, sad sierreño"
+Blackpink,41MozSoPIsD1dJM0CLPjZF,Blackpink,Group,Female,01 January 2016,2016,Live,Present,9,k-pop
+Britney Spears,26dSoYclwsYLMAKD3tpOr4,Britney Spears,Person,Female,02 December 1981,1998,Live,Present,43,pop
+Fall Out Boy,4UXqAaa6dQYAk18Lv7PEgX,Fall Out Boy,Group,N/A,01 January 2001,2001,Live,Present,24,"emo, pop punk, emo pop"
+Green Day,7oPftvlwr6VrsViSDV7fJY,Green Day,Group,N/A,01 January 1987,1987,Live,Present,38,"punk, pop punk"
+Fleetwood Mac,08GQAI4eElDnROBrJRGE0X,Fleetwood Mac,Group,N/A,01 January 1967,1967,Live,Present,58,"classic rock, soft rock"
+Major Lazer,738wLrAtLtCtFOLvQBXOXp,Major Lazer,Group,N/A,01 January 2008,2008,Live,Present,17,moombahton
+Morat,5C4PDR4LnhZTbVnKWXuDKD,Morat,Group,N/A,01 January 2015,2015,Live,Present,10,"colombian pop, latin pop"
+Rosalía,7ltDVBr6mKbRvohxheJ9h1,A?Ha,Group,N/A,25 September 1992,2013,Live,Present,33,latin
+Jorge & Mateus,1elUiq4X7pxej6FRlrEzjM,Jorge & Mateus,Group,N/A,01 January 2005,2005,Live,Present,20,"sertanejo, sertanejo universitário, arrocha, agronejo"
+Becky G,4obzFoKoKRHIphyHzJ35G3,Zero?G,Group,N/A,02 March 1997,2011,Live,Present,28,"reggaeton, latin"
+Radiohead,4Z8W4fKeB5YxbusRsdQVPb,Radiohead,Group,N/A,01 January 1985,1985,Live,Present,40,"art rock, alternative rock"
+Mariah Carey,4iHNK0tOyZPYnBU7nGAgpQ,Mariah Carey,Person,Female,27 March 1969,1990,Live,Present,56,christmas
+Guns N' Roses,3qm84nBOXUEQ2vnTfUTTFC,Guns N Roses,Group,N/A,01 January 1985,1985,Live,Present,40,"rock, glam metal, hard rock, classic rock"
+Zion & Lennox,21451j1KhjAiaYKflxBjr1,Zion & Lennox,Group,N/A,01 January 2001,2001,Live,Present,24,"reggaeton, latin"
+Banda Ms De Sergio Lizárraga,2C6i0I5RiGzDKN9IAF8reh,Banda Sinaloense Ms De Sergio Lizárraga,Group,N/A,01 January 2003,2003,Live,Present,22,"banda, norteño, grupera, música mexicana, corrido"
+The Rolling Stones,22bE4uQ6baNwSHPVcDxLCe,The Rolling Stones,Group,N/A,01 January 1962,1962,Live,Present,63,"classic rock, rock"
+Stray Kids,2dIgFjalVxs4ThymZ67YCE,Stray Kids,Group,N/A,01 January 2017,2018,Live,Present,8,k-pop
+Charli Xcx,25uiPmTg16RbhZWAqwLBy5,Charli Xcx,Person,Female,02 August 1992,2008,Live,Present,33,"hyperpop, art pop"
+Reik,0vR2qb8m9WHeZ5ByCbimq2,Reik,Group,N/A,01 January 2003,2003,Live,Present,22,latin pop
+Shreya Ghoshal,0oOet2f43PA68X5RxKobEy,Shreya Ghoshal,Person,Female,12 March 1984,2002,Live,Present,41,"bollywood, hindi pop, kannada pop, desi, marathi pop"
+System Of A Down,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,Group,N/A,01 January 1994,1994,Live,Present,31,"nu metal, metal, alternative metal, rap metal, rock"
+Alicia Keys,3DiDSECUqqY1AuBP8qtaIa,Alicia Keys,Person,Female,25 January 1981,1996,Live,Present,44,"r&b, neo soul"
+Mora,0Q8NcsJwoCbZOHHW63su5S,Mora Träsk,Group,N/A,18 December 1992,2017,Live,Present,32,"urbano latino, trap latino, reggaeton"
+Grupo Frontera,6XkjpgcEsYab502Vr1bBeW,Grupo Frontera,Group,N/A,01 January 2019,2019,Live,Present,6,"cumbia norteña, banda, norteño, música mexicana, corrido, corridos tumbados, grupera, corridos bélicos, tejano"
+Twice,7n2Ycct7Beij7Dj7meI4X0,Twice,Group,N/A,01 January 2015,2015,Live,Present,10,k-pop
+Bryant Myers,6w9ToX5slZ4uIdmD17hJ3c,Nicola Bryant,Person,Female,05 April 1998,2015,Live,Present,27,"trap latino, reggaeton, trap, urbano latino, dembow"
+Ñengo Flow,12vb80Km0Ew53ABfJOepVz,Flow,Group,N/A,15 October 1981,2004,Live,Present,44,"reggaeton, trap latino"
+Grupo Firme,1dKdetem2xEmjgvyymzytS,Grupo Firme,Group,N/A,01 January 2014,2014,Live,Present,11,"banda, corrido, norteño, sierreño, grupera, música mexicana, corridos bélicos"
+Blink-182,6FBDaR13swtiWwGhX1WQsP,Blink?182,Group,N/A,01 January 1992,1992,Live,Present,33,"pop punk, punk, emo pop, rock, skate punk, emo"
+Cigarettes After Sex,1QAJqy2dA3ihHBFIHRphZj,Cigarettes After Sex,Group,N/A,01 January 2008,2008,Live,Present,17,dream pop
+U2,51Blml2LZPmy7TTiAg47vQ,U2,Group,N/A,01 January 1976,1976,Live,Present,49,rock
+Foo Fighters,7jy3rLJdDQY21OgRLCZ9sD,Foo Fighters,Group,N/A,01 January 1994,1994,Live,Present,31,"rock, post-grunge, alternative rock, grunge, modern rock"
+Jhené Aiko,5ZS223C6JyBfXasXxrRqOk,Aiko,Person,Female,16 March 1988,2002,Live,Present,37,r&b
+Rammstein,6wWVKhxIU2cEi0K81v7HvP,Rammstein,Group,N/A,01 January 1994,1994,Live,Present,31,"industrial metal, metal, industrial rock, industrial"
+Summer Walker,57LYzLEk2LcFghVwuWbcuS,Donna Summer,Person,Female,11 April 1996,2018,Live,Present,29,r&b
+Slipknot,05fG473iIaoy82BF1aGhL8,Slipknot,Group,N/A,01 January 1995,1995,Live,Present,30,"nu metal, metal, alternative metal, rap metal, heavy metal"
+The Killers,0C0XlULifJtAgn6ZNCW2eu,The Beatles,Group,N/A,01 January 2001,2001,Live,Present,24,alternative rock
+Paramore,74XFHRwlV6OrjEM0A2NCMF,Paramore,Group,N/A,01 January 2004,2004,Live,Present,21,"pop punk, emo, emo pop"
+Maria Becerra,1DxLCyH42yaHKGK3cl5bvG,María Becerra,Person,Female,12 February 2000,2015,Live,Present,25,argentine trap
+Bon Jovi,58lV9VcRSjABbAbfWS6skp,Bon Jovi,Group,N/A,01 January 1983,1983,Live,Present,42,"glam metal, rock"
+Zé Neto & Cristiano,487N2T9nIPEHrlTZLL3SQs,Zé Neto & Cristiano,Group,N/A,01 January 2011,2011,Live,Present,14,"sertanejo, sertanejo universitário, arrocha, agronejo"
+Juice Wrld,4MCBfE4596Uoi2O4DtmEMz,Juice Wrld,Person,Male,02 December 1998,2015,Deceased,2019,21,"melodic rap, emo rap"
+Xxxtentacion,15UsOTVnJzReFVN1VCnxy4,Xxxtentacion,Person,Male,23 January 1998,2013,Deceased,2018,20,emo rap
+Daddy Yankee,4VMYDCV2IEDYJArk749S6m,Daddy Yankee,Person,Male,03 February 1977,1994,Live,2022,45,"reggaeton, latin"
+The Beatles,3WrFJ7ztbogyGnTHbHJFl2,The Beatles,Group,Male,01 January 1960,1960,Disbanded,1970,10,"classic rock, psychedelic rock"
+Avicii,1vCWHaC5f2uS3yhpwWbIA6,Avicii,Person,Male,08 September 1989,2008,Deceased,2018,29,edm
+Lil Peep,2kCcBybjl3SAtIcwdWpUe3,Lil Peep,Person,Male,01 November 1996,2015,Deceased,2017,21,"emo rap, cloud rap"
+Pop Smoke,0eDvMgVFoNV3TpwtrVCoTj,Pop Smoke,Person,Male,20 July 1999,2018,Deceased,2020,21,"brooklyn drill, drill, new york drill"
+Migos,6oMuImdp5ZcFhWP0ESe6mG,Migos,Group,Male,01 January 2008,2008,Disbanded,2022,14,trap
+Daft Punk,4tZwfgrHOc3mvqYlEYSvVi,Daft Punk,Group,Daft Punk,01 January 1993,1993,Disbanded,2021,28,"french house, electronic, electro"
+Marília Mendonça,1yR65psqiazQpeM79CcGh8,Lia,Person,Female,22 July 1995,2014,Deceased,2021,26,"sertanejo, sertanejo universitário, arrocha, forró"
+Nirvana,6olE6TJLqED3rqDCT0FyPh,Nirvana,Group,N/A,01 January 1987,1987,Disbanded,1994,7,"grunge, rock"
+Panic! At The Disco,20JZFwl6HVl6yg8a4H3ZqK,Panic! At The Disco,Group,N/A,01 January 2004,2004,Disbanded,2023,19,emo
+Bob Marley & The Wailers,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,Group,N/A,01 January 1963,1963,Disbanded,1981,18,"reggae, roots reggae"
+2Pac,1ZwdS5xdxEREPySFridCfh,2Pac,Person,Male,16 June 1971,1989,Deceased,1996,25,"gangster rap, west coast hip hop, g-funk, hip hop"
+Pink Floyd,0k17h0D3J5VfsdmQ1iZtE9,Pink Floyd,Group,Male,01 January 1965,1965,Disbanded,2014,49,"progressive rock, psychedelic rock, classic rock, symphonic rock, art rock, rock"
+Creedence Clearwater Revival,3IYUhFvPQItj6xySrBmZkd,Creedence Clearwater Revival,Group,N/A,01 January 1967,1967,Disbanded,1972,5,"classic rock, southern rock, country rock"
+Frank Sinatra,1Mxqyy3pSjf8kZZL4QVxS0,Frank Sinatra,Person,Male,12 December 2015,1935,Deceased,1995,80,"christmas, big band, adult standards, swing music, vocal jazz, jazz"
+Elvis Presley,43ZHCT0cAZBISjO8DG9PnE,Elvis Presley,Person,Male,08 January 1935,1954,Deceased,1977,42,"rockabilly, rock and roll"
+The Notorious B.I.G.,5me0Irg2ANcsgc93uaYrpb,The Notorious B.I.G.,Person,Male,21 May 1972,1992,Deceased,1997,25,"gangster rap, east coast hip hop, hip hop"
+David Bowie,0oSGxfWSnnOXhD2fKuz2Gy,David Bowie,Person,Male,08 January 1947,1962,Deceased,2016,69,"glam rock, art rock"
+Florida Georgia Line,3b8QkneNDz4JHKKKlLgYZg,Florida Georgia Line,Group,N/A,01 January 2010,2010,Disbanded,2022,12,"country, pop country, acoustic country"
+Shawn Mendes,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,Person,Male,08 August 1998,2013,Live,Present,27,"Pop,Folk Pop,Pop Rock  "
+Quevedo,52iwsT98xCoGgiGntTiR7K,Quevedo,Person,Male,07 December 2001,2020,Live,Present,23,"Reggaeton,Latin Pop,Latin Trap  "
+The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,Person,Male,16 February 1990,2010,Live,Present,35,"Alternative R&B,R&B,Pop,New Wave,Dance  "
+Justin Bieber,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,Person,Male,01 March 1994,2008,Live,Present,31,"Pop,R&B,Dance-Pop,EDM  "
+Post Malone,246dkjvS1zLTtiykXe5h60,Post Malone,Person,Male,04 July 1995,2015,Live,Present,30,"Hip Hop,Pop,R&B,Trap,Pop Rap,Pop Rock,Country,Indie Pop,Rap Rock,Cloud Rap  "
+Bruno Mars,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,Person,Male,08 October 1985,2004,Live,Present,40,"Pop,R&B,Funk,Soul,Reggae,Rock,Disco,New Jack Swing  "
+21 Savage,1URnnhqYAYcrqrcwql10ft,21 Savage,Person,Male,22 October 1992,2013,Live,Present,33,"Southern hip hop,Trap,Mumble rap"
+Khalid,6LuN9FCkKOj5PcnpouEgny,Khalid,Person,Male,11 February 1998,2016,Live,Present,27,"R&B,Pop,Soul,Alternative R&B"
+Lil Baby,5f7VJjfbwm532GiveGC0ZK,Lil Baby,Person,Male,03 December 1994,2016,Live,Present,30,"Southern hip hop,Trap"
+Harry Styles,6KImCVD70vtIoJWnq6nGn3,Harry Styles,Person,Male,01 February 1994,2010,Live,Present,31,"Pop,Pop rock,Soft rock,Britpop,New wave,Synth-pop,Disco,Folk"
+Metro Boomin,0iEtIxbK0KxaSlF7G42ZOp,Metro Boomin,Person,Male,16 September 1993,2013,Live,Present,32,"Hip hop,Trap"
+Ty Dolla $Ign,7c0XG5cIJTrrAgEC3ULPiq,Ty Dolla $Ign,Person,Male,13 April 1982,2010,Live,Present,43,"R&B,West Coast hip hop,Trap"
+"Tyler, The Creator",4V8LLVI7PbaPR0K2TGSxFF,"Tyler, The Creator",Person,Male,06 March 1991,2007,Live,Present,34,"Alternative hip-hop,Neo soul,West Coast hip hop,Jazz rap,Hardcore hip hop,Horrorcore"
+Pitbull,0TnOYISbd1XYRBk9myaseg,Pitbull,Person,Male,15 January 1981,2001,Live,Present,44,"Hip hop,Latin hip-hop,Reggaeton,Pop rap,Pop"
+Frank Ocean,2h93pZq0e7k5yf4dywlkpM,Frank Sinatra,Person,Male,28 October 1987,2010,Live,Present,38,"Alternative R&B,Psychedelic soul,Avant-soul"
+Dababy,4r63FhuTkUYltbVAg5TQnk,Dababy,Person,Male,22 December 1991,2015,Live,Present,33,"Southern hip hop,Trap"
+Quavo,0VRj0yCOv2FXJNP47XQnx5,Quavo,Person,Male,02 April 1991,2008,Live,Present,34,"Southern hip hop,Trap"
+Tyga,5LHRHt1k9lMyONurDHEdrp,Tyga,Person,Male,19 November 1989,2007,Live,Present,35,"West Coast hip hop,Pop rap"
+Elton John,3PhoLpVuITZKcymswpck5b,Elton John,Person,Male,25 March 1947,1962,Live,Present,78,"Pop rock,Glam rock,Soft rock,Blues"
+Jason Derulo,07YZf4WDAMNwqr4jfgOZ8y,Jason Derulo,Person,Male,21 September 1989,2006,Live,Present,36,"Pop,R&B,Hip hop"
+Alan Walker,7vk5e3vY1uw9plTHJAMwjN,Alan Silvestri,Person,Male,24 August 1997,2012,Live,Present,28,"EDM,Electro House,Progressive House,Big Room House,Deep House  "
+Youngboy Never Broke Again,7wlFDEWiM5OoIAt8RSli8b,Youngboy Never Broke Again,Person,Male,20 October 1999,2015,Live,Present,26,"Southern Hip Hop,Gangsta Rap,Trap  "
+Swae Lee,1zNqQNIdeOUZHb8zbZRFMX,Swae Lee,Person,Male,07 June 1993,2010,Live,Present,32,"Hip Hop,Trap  "
+Kodak Black,46SHBwWsqBkxI7EeeBEQG7,Kodak Black,Person,Male,11 June 1997,2014,Live,Present,28,"Hip Hop,Trap  "
+Big Sean,0c173mlxpT3dSFRgMO8XPh,Big Sean,Person,Male,25 March 1988,2007,Live,Present,37,Hip Hop  
+Justin Timberlake,31TPClRtHm23RisEBtV3X7,Justin Timberlake,Person,Male,31 January 1981,1996,Live,Present,44,"Pop,R&B,Dance,Funk,Soul  "
+Polo G,6AgTAQt8XS6jRWi4sX7w49,Zero?G,Person,Male,06 January 1999,2018,Live,Present,26,"Rap,Contemporary Rap,Midwest Rap,Hardcore Rap,Drill  "
+G-Eazy,02kJSzxNuaWGqwubyUba0Z,G?Eazy,Person,Male,24 May 1989,2008,Live,Present,36,"Hip hop,Alternative hip hop,Frat rap,Pop punk,Trap"
+Hozier,2FXC3k01G6Gw61bmprjgqS,Hozier,Person,Male,17 March 1990,2008,Live,Present,35,"Blues,Rock,Soul,Folk,Indie,R&B"
+Dj Snake,540vIaP2JwjQb9dm3aArA4,Dj Snake,Person,Male,13 June 1986,2011,Live,Present,39,"Electronic,Trap,Moombahton,Dubstep"
+Tory Lanez,2jku7tDXc6XoB6MO2hFuqg,Tory Lanez,Person,Male,27 July 1992,2009,Live,Present,33,"R&B,Hip hop,Swavey"
+Pharrell Williams,2RdwBSPQiwcmiDo9kixcl8,Pharrell Williams,Person,Male,05 April 1973,1992,Live,Present,52,"R&B,Hip hop,Pop,Pop rap"
+Akon,0z4gvV4rjIZ9wHck67ucSV,Akon,Person,Male,30 April 1973,2004,Live,Present,52,"R&B,Hip hop,Pop"
+Offset,4DdkRBBYG6Yk9Ka8tdJ9BW,Offset,Person,Male,14 December 1991,2007,Live,Present,33,"Hip hop,Trap"
+Don Toliver,4Gso3d4CscCijv0lmajZWs,Don Toliver,Person,Male,12 June 1994,2017,Live,Present,31,"Hip hop,R&B"
+The Kid Laroi,2tIP7SsRs7vjIcLrU85W8J,The Kid Laroi,Person,Male,17 August 2003,2018,Live,Present,22,"Hip hop,R&B,Emo,Pop,Alternative rock"
+Kid Cudi,0fA0VVWsXO9YnASrzqfmYu,Kid Cudi,Person,Male,30 January 1984,2003,Live,Present,41,"Hip hop,Alternative hip hop,Alternative rock,Neo-psychedelia,Trip hop,R&B,Hip house,Emo rap"
+Flo Rida,0jnsk9HBra6NMjO2oANoPY,Flo Rida,Person,Male,17 September 1979,2000,Live,Present,46,"Southern hip hop,Crunk,Maimi bass,Pop rap,Electronic"
+Logic,4xRYI6VqpkE3UwrDrAZL8L,Logic,Person,Male,22 January 1990,2010,Live,Present,35,Hip hop
+Lil Nas X,7jVv8c5Fj3E9VhNjxT4snq,Lil Nas X,Person,Male,09 April 1999,2018,Live,Present,26,"Pop rap,Trap,Country rap,Pop rock,Pop"
+Joji,3MZsBdqDrRTJihTHQrO6Dq,Joji,Person,Male,18 September 1992,2013,Live,Present,33,"Lofi hip hop,R&B,Alternative,Indie"
+Lil Yachty,6icQOAFXDZKsumw3YXyusw,Lil Yachty,Person,Male,23 August 1997,2014,Live,Present,28,"Hip hop,Trap,Pop rap,Mumble rap"
+Ne-Yo,21E3waRsmPlU7jZsS13rcj,Ne?Yo,Person,Male,18 October 1979,1999,Live,Present,46,"R&B,Pop,Pop rock"
+Mgk,6TIYQ3jFPwQSRmorSezPxX,Mgk,Person,Male,22 April 1990,2006,Live,Present,35,"Hip hop,Pop rap,Rap rock,Pop punk,Alternative rock"
+Lauv,5JZ7CnR6gTvEMKX4g70Amv,Lauv,Person,Male,08 August 1994,2015,Live,Present,31,"Pop,Electropop,R&B,Alt-pop"
+Jack Harlow,2LIk90788K0zvyj2JJVwkJ,Jack Harlow,Person,Male,13 March 1998,2015,Live,Present,27,"Hip hop,Pop rap"
+Childish Gambino,73sIBHcqh3Z3NyqHKZ7FOL,Childish Gambino,Person,Male,25 September 1983,2005,Live,Present,42,"Alternative Hip Hop, R&B, Funk, Soul, Experimental"
+Macklemore,3JhNCzhSMTxs9WLGJJxWOY,Macklemore,Person,Male,19 June 1983,2000,Live,Present,42,"Hip Hop, Alternative Hip Hop, Pop Rap, Hipster Hop"
+Blackbear,2cFrymmkijnjDg9SS92EPM,Blackbear,Person,Male,27 November 1990,2006,Live,Present,34,"Alternative R&B, Electro Pop, Indie Pop, Trap, Emo Rap"
+Zayn,5ZsFI1h6hIdQRw2ti0hz81,Zayn Malik,Person,Male,12 January 1993,2010,Live,Present,32,"Pop, R&B, Electropop, Alternative R&B"
+Daniel Caesar,20wkVLutqVOYrc0kxFs7rA,Daniel Caesar,Person,Male,05 April 1995,2014,Live,Present,30,"Neo Soul, Alternative R&B"
+Chance The Rapper,1anyVhU62p31KFi8MEzkbf,Chance The Rapper,Person,Male,16 April 1993,2011,Live,Present,32,"Hip Hop, Alternative Hip Hop, Gospel, Jazz Rap"
+French Montana,6vXTefBL93Dj5IqAWq6OTv,French Montana,Person,Male,09 November 1984,2002,Live,Present,40,"Hip Hop, Trap, East Coast Hip Hop"
+Dj Khaled,0QHgL1lAIqAw0HtD7YldmP,Khaled,Person,Male,26 November 1975,1996,Live,Present,49,"Hip Hop, Pop Rap"
+Labrinth,2feDdbD5araYcm6JhFHHw7,Labrinth,Person,Male,04 January 1989,2009,Live,Present,36,"Pop, R&B, Electronic, Soul, Funk"
+Troye Sivan,3WGpXCj9YhhfX11TToZcXP,Troye Sivan,Person,Male,05 June 1995,2006,Live,Present,30,"Pop, Synth-Pop, Electropop, Dance-Pop"
+Russ,1z7b1Pr1rSlvWRzsW3HOrS,Russ,Person,Male,26 September 1992,2011,Live,Present,33,"Hip hop,Alternative hip hop,Frat rap,Pop punk,Trap"
+T-Pain,3aQeKQSyrW4qWr35idm0cy,T?Pain,Person,Male,30 September 1985,2004,Live,Present,40,"Hip hop,Crunk,Pop rap,R&B"
+Noah Kahan,2RQXRUsr4IW1f3mKyKsy4B,Noah Kahan,Person,Male,19 January 1997,2017,Live,Present,28,"Folk-pop,Singer-songwriter"
+Jeremih,3KV3p5EY4AvKxOlhGHORLg,Jeremih,Person,Male,17 July 1987,2003,Live,Present,38,"R&B,Contemporary R&B,Pop"
+Coldplay,4gzpq5DPGxSnKTe4SA8HAU,Coldplay,Group,Male,01 January 1996,1996,Live,Present,29,"Alternative rock,Pop rock,Post-Britpop"
+Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons,Group,Male,01 January 2008,2008,Live,Present,17,"Pop rock,Electropop,Alternative rock"
+The Chainsmokers,69GGBxA162lTqCwzJG5jLp,The Beatles,Group,Male,01 January 2012,2012,Live,Present,13,"EDM,Pop,Electropop,Future bass"
+Twenty One Pilots,3YQKmKGau1PzlVlkL1iodx,Twenty One Pilots,Group,Male,01 January 2009,2009,Live,Present,16,"Alternative rock,Electropop,Alternative hip hop,Rap rock,Indie pop"
+The Neighbourhood,77SW9BnxLY8rJ0RciFqkHh,The Neighbourhood,Group,Male,01 August 2011,2011,Live,Present,14,"Alternative rock,Indie rock,Indie pop,Pop rock,Electronic,Pop,R&B"
+Taylor Swift,06HL4z0CvFAxyc27GXpf02,Taylor Swift,Person,Female,13 December 1989,2004,Live,Present,35,"Pop, Country, Country Pop, Synth-pop, Folk, Rock"
+Rihanna,5pKCCKE2ajJHZ9KAiaK11H,Rihanna,Person,Female,20 February 1988,2005,Live,Present,37,"R&B, Pop, Dancehall, Dance, Reggae"
+Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,Person,Female,18 December 2001,2016,Live,Present,23,"Pop, Alternative Pop, Electropop"
+Nicki Minaj,0hCNtLu0JehylgoiP8L4Gh,Nicki Minaj,Person,Female,08 December 1982,2004,Live,Present,42,"Hip Hop, Pop, R&B"
+Lana Del Rey,00FQb4jTyendYWaN8pK0wa,Lana Del Rey,Person,Female,21 June 1985,2005,Live,Present,40,"Baroque Pop, Dream Pop, Indie Pop, Alternative Rock, Country, Folk"
+Beyonc�,6vWDO969PvNqNYHIOW5v0m,Beyonca Johnson,Person,Female,04 September 1981,1997,Live,Present,44,"R&B, Pop, Hip Hop, Afrobeats, Dance, Country"
+Sia,5WUlDfRSoLAfcVSX1WnrxN,Sia,Person,Female,18 December 1975,1993,Live,Present,49,"Pop, Electropop, Indie Pop, Art Pop, Alternative R&B"
+Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,Doja Cat,Person,Female,21 October 1995,2012,Live,Present,30,"Pop, R&B, Hip Hop, Rap, Dancehall"
+Halsey,26VFTg2z8YR0cCuwLzESi2,Halsey,Person,Female,29 September 1994,2014,Live,Present,31,"Pop, Synth-pop, Electropop, Art Pop, Alternative Rock"
+Olivia Rodrigo,1McMsnEElThX1knmY4oliG,Olivia Rodrigo,Person,Female,20 February 2003,2016,Live,Present,22,"Pop, Pop Punk, Indie Pop, Alternative Rock"
+Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,Miley Cyrus,Person,Non-Binary,23 November 1992,2006,Live,Present,32,"Pop, Country Pop, Hip Hop, Experimental, Rock"
+Die Drei ???,3meJIgRw7YleJrmbpbJK6S,Die Drei ???,Other,N/A,01 January 1968,1968,Live,Present,57,"Pop, Rock, R&B"
+Cardi B,4kYSro6naA4h99UJvo89HB,Cardi B,Person,Female,11 October 1992,2015,Live,Present,33,"Pop, Latin Pop, R&B, Reggaeton, Dancehall, Hip Hop"
+Camila Cabello,4nDoRrQiYLoBzwC5BhVJzF,Camila Cabello,Person,Female,03 March 1997,2012,Live,Present,28,"Pop, Dance-Pop, Teen Pop, Latin Pop"
+Disney,3xvaSlT4xsyk6lY1ESOspO,[Disney],Organization,N/A,01 January 1923,1923,Live,Present,102,"Pop, Teen Pop, Dance-Pop"
+Bebe Rexha,64M6ah0SkkRsnPGtGiRAbb,Bebe Rexha,Person,Female,30 August 1989,2010,Live,Present,36,"Pop, R&B, EDM, Trap, Hip Hop"
+Demi Lovato,6S2OmqARrzebs0tKUEyXyp,Demi Lovato,Person,Non-Binary,20 August 1992,2002,Live,Present,33,"Pop, Country, Rock"
+Sabrina Carpenter,74KM79TiuVKeVCqs8QtB0B,Sabrina Carpenter,Person,Female,11 May 1999,2011,Live,Present,26,"Pop, R&B, Dance-Pop"
+P!Nk,1KCSPY1glIKqW2TotWuXOR,P!Nk,Person,Female,08 September 1979,1995,Live,Present,46,"Pop, R&B, Dance-Pop"
+Ellie Goulding,0X2BH1fck6amBIoJhDVmmJ,Ellie Goulding,Person,Female,30 December 1986,2009,Live,Present,38,"Pop, Synth-Pop, Electropop, Indie Pop"
+Kali Uchis,1U1el3k54VvEUzo3ybLPlM,Kali Uchis,Person,Female,17 July 1994,2012,Live,Present,31,"Pop, R&B, Neo Soul, Latin"
+Black Eyed Peas,1yxSLGMDHlW21z4YXirZDS,Black Eyed Peas,Group,N/A,01 January 1995,1995,Live,Present,30,"Hip hop, Pop, Dance-pop, Electro, Funk, R&B"
+Anne-Marie,1zNqDE7qDGCsyzJwohVaoX,Anne-Marie,Person,Female,07 April 1991,2013,Live,Present,34,"Pop, Pop rock, Dance-pop"
+Megan Thee Stallion,181bsRPaVXVlUKXrxwZfHK,Megan Thee Stallion,Person,Female,15 February 1995,2016,Live,Present,30,"Hip hop, Rap, Trap, Southern hip hop"
+Tate Mcrae,45dkTj5sMRSjrmBSBeiHym,Tate Mcrae,Person,Female,01 July 2003,2016,Live,Present,22,"Pop, Pop rock, Electropop, Indie pop"
+5 Seconds Of Summer,5Rl15oVamLq7FbSb0NNBNy,5 Seconds Of Summer,Group,N/A,01 January 2011,2011,Live,Present,14,"Pop rock, Pop, Pop-punk, Alternative rock"
+Alessia Cara,2wUjUUtkb5lvLKcGKsKqsR,Alessia Cara,Person,Female,11 July 1996,2014,Live,Present,29,"Pop, R&B, Soul, Indie pop, Alternative pop"
+Ava Max,4npEfmQ6YuiwW1GpUmaq3F,Ava Max,Person,Female,16 February 1994,2013,Live,Present,31,"Pop, Dance-pop, Electropop, Synth-pop"
+Zara Larsson,1Xylc3o4UrD53lo9CvFvVg,Zara Larsson,Person,Female,16 December 1997,2008,Live,Present,27,"Pop, Dance-pop, Electropop, EDM"
+Gorillaz,3AA28KZvwAUcZuOKwyblJQ,Gorillaz,Group,N/A,01 January 1998,1998,Live,Present,27,"Alternative rock, Hip hop, Electronic, Indie pop, Trip hop"
+Meghan Trainor,6JL8zeS1NmiOftqZTRgdTz,Meghan Trainor,Person,Female,22 December 1993,2009,Live,Present,31,"Pop, Doo-wop, R&B, Pop rock, Synth-pop"
+Abba,0LcJLqbBmaGUft1e9Mm8HV,Abba,Group,N/A,01 January 1972,1972,Live,Present,53,"Pop, Disco, Pop rock"
+Melanie Martinez,63yrD80RY3RNEM2YDpUpO8,Melanie Martinez,Person,Female,28 April 1995,2012,Live,Present,30,"Pop, Electropop, Art pop, Alternative pop"
+Kesha,6LqNN22kT3074XbTVUrhzX,Kesha,Person,Female,01 March 1987,2005,Live,Present,38,"Pop, Dance-pop, Electropop, EDM"
+Clean Bandit,6MDME20pz9RveH9rEXvrOM,Clean Bandit,Group,N/A,01 January 2008,2008,Live,Present,17,"Electronic, Dance-pop, Classical crossover, Indie pop"
+Christina Aguilera,1l7ZsJRRS8wlW3WfJfPfNS,Christina Aguilera,Person,Female,18 December 1980,1992,Live,Present,44,"Pop, R&B, Soul, Pop rock, Dance-pop"
+Madonna,6tbjWDEIzxoDsBA1FuhfPW,Madonna,Person,Female,16 August 1958,1979,Live,Present,67,"Pop, Dance-pop, Synth-pop, Electropop"
+Lorde,163tK9Wjr9P9DmM0AVK7lm,Lorde,Person,Female,07 November 1996,2009,Live,Present,28,"Indie pop, Electropop, Alternative pop"
+The 1975,3mIj9lX2MWuHmhNCA7LSCW,The Beatles,Group,N/A,01 January 2002,2002,Live,Present,23,"Indie pop, Pop rock, Synth-pop, New wave"
+League Of Legends,47mIJdHORyRerp4os813jD,Of Legends,Group,N/A,01 January 2010,2010,Live,Present,15,"Video game music, Electronic, Rock, Pop, Orchestral, Ambient"
+Mitski,2uYWxilOVlUdk4oV9DvwqK,Mitski,Person,Female,27 September 1990,2007,Live,Present,35,"Indie rock, Pop, Indie pop, Art pop, Alternative rock"
+One Direction,4AK6F7OLvEQ5QYCBNiQWHq,One Direction,Group,Male,01 January 2010,2010,Disbanded,2016,6,"Pop, Pop rock, Boy band, Dance-pop"
+Michael Jackson,3fMbdgg4jU18AjLCKBhRSm,Michael Jackson,Person,Male,29 August 1958,1964,Deceased,2009,51,"Pop, R&B, Dance-pop, Funk, Rock, Soul"
+Mac Miller,4LLpKhyESsyAXpc4laK94U,Mac Miller,Person,Male,19 January 1992,2007,Deceased,2018,26,"Hip hop, Rap, Jazz rap, Alternative hip hop"
+Little Mix,3e7awlrlDSwF3iM0WBjGMp,Little Mix,Group,Female,01 January 2011,2011,Disbanded,2023,12,"Pop, Dance-pop, R&B, Electropop, Soul"
